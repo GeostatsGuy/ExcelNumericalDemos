@@ -2,7 +2,7 @@
 A set of numerical demonstrations in Excel to assist with teaching / learning concepts in statistics and geostatistics.
 
 <p align="center">
-*If you can't explain it simply, you don't understand it well enough* - Alberta Einstein
+**If you can't explain it simply, you don't understand it well enough** - Alberta Einstein
 </p>
 
 To me 'coding' up a method or workflow in Excel without VBA is the ultimate case of explaining it simply! So while I do code in FORTRAN, C++ (20 years experience), VBA, R and Python I challenge myselt to put methods and workflows in Excel to provide hands-on experiential learning and reach more students. Why do I feel this way?
