@@ -7,12 +7,11 @@ If you can't explain it simply, you don't understand it well enough - Alberta Ei
 
 To me 'coding up' or 'building out' a method or workflow in Excel without VBA is the ultimate case of explaining it simply! So while I do code in FORTRAN, C++ (20 years experience), VBA, R and Python, I challenge myselt to put methods and workflows in Excel to provide hands-on experiential learning that reaches more students. Why do I feel this way?
 
-* in STEM everyone has access to Excel.This is even more true with the online applications Microsoft now provides.
-* the vast majority of scientists and engineers know the basics of working with Excel
-* one can easily interogate a method or workflow in Excel, just click on the cell to see the equation
-* there is no set up needed to get students started with these dmeonstrations
+* _Assessibility_ - in STEM everyone has access to Excel. This is even more true with the online applications Microsoft now provides and the vast majority of scientists and engineers know the basics of working with Excel
+* _Interpretability_ - one can easily interogate a method or workflow in Excel, just click on the cell to see the equation
+* _Set Up_ - there is no set up needed to get students started with these demonstrations
 
-Now, if you are convinced that I'm old fashion, check out my:
+I teach in a lot of places and I teach a lot of things. I adjust to get the job done.  Now, if you are convinced that I'm old fashion, check out my:
 
 *  [R workflow repository](https://github.com/GeostatsGuy/geostatsr)
 *  [Python workflow repository](https://github.com/GeostatsGuy/PythonNumericalDemos)
