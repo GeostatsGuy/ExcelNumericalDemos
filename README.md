@@ -1,3 +1,7 @@
+<p>
+    <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p>
+
 # ExcelNumericalDemos
 A set of numerical demonstrations in Excel to assist with teaching / learning concepts in statistics and geostatistics.
 
