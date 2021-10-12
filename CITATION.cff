@@ -4,7 +4,7 @@ authors:
   - family-names: Pyrcz
     given-names: Michael J.
     orcid:  https://orcid.org/0000-0002-5983-219X 
-title: "PythonNumericalDemos: Educational Data Science Demonstrations Repository"
+title: "ExcelNumericalDemos: Educational Data Science Demonstrations Repository"
 version: 1.0.0
-doi: 10.5281/zenodo.5564967
+doi: 10.5281/zenodo.5564991
 date-released: 2021-10-12
