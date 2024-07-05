@@ -10,7 +10,7 @@
 If you can't explain it simply, you don't understand it well enough - Alberta Einstein
 </p>
 
-*To reach more students and working professionals with my educational data science content, I have developed a set of Excel interactive dashboards. When students struggle with a concept I make a new interactive dashboard so they can learn by playing with the statistics, models or theoretical concepts!* 
+*To reach more students and working professionals with my **Data Analytics and Geostatistics**, **Spatial Data Analytics** and **Machine Learning** courses, I have developed a set of Excel interactive dashboards. When students struggle with a concept I make a new interactive dashboard so they can learn by playing with the statistics, models or theoretical concepts, and virtually everyone has Excel!* 
 
 ### Michael Pyrcz, Professor, The University of Texas at Austin, Data Analytics, Geostatistics and Machine Learning 
 #### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
