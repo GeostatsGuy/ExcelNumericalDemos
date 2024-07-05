@@ -33,9 +33,7 @@ A minimum environment includes:
 
 Datasets are embedded in the Excel files.
 
-### Repository Summary
-
-
+#### Repository Summary
 
 To me 'coding up' or 'building out' a method or workflow in Excel without VBA is the ultimate case of explaining it simply! So while I do code in FORTRAN, C++ (20 years experience), VBA, R and Python, I challenge myselt to put methods and workflows in Excel to provide hands-on experiential learning that reaches more students. Why do I feel this way?
 
