@@ -2,12 +2,13 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# ExcelNumericalDemos
-A set of numerical demonstrations in Excel to assist with teaching / learning concepts in statistics and geostatistics.
+# ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository
+
+A set of numerical demonstrations in Excel to assist with teaching / learning concepts in datascience, statistics and geostatistics.
 
 Please cite as:
 
-Pyrcz, Michael J. (2021). ExcelNumericalDemos: Data Science Educational Demonstrations in Excel Repository (0.0.1). Zenodo. https://zenodo.org/doi/10.5281/zenodo.5564991
+Pyrcz, Michael J. (2021). ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository (0.0.1). Zenodo. https://zenodo.org/doi/10.5281/zenodo.5564991
 
 [![DOI](https://zenodo.org/badge/103857468.svg)](https://zenodo.org/doi/10.5281/zenodo.5564990)
 
