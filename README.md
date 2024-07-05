@@ -8,7 +8,7 @@
 
 A set of numerical demonstrations in Excel to assist with teaching / learning concepts in datascience, statistics and geostatistics.
 
-# Cite As:
+### Cite As:
 
 Pyrcz, Michael J. (2021). ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository (0.0.1). Zenodo. https://zenodo.org/doi/10.5281/zenodo.5564991
 
