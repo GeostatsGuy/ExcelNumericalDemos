@@ -1,12 +1,21 @@
-<p>
+<h1 align="center"<p>
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
+</p></h1>
+
+<h1 align="center">ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository (0.0.1)</h1>
+
+<h3 align="center">Interactive dashboards to help you over the intellectual hurdles of data science!</h3>
+
+<p align="center">
+If you can't explain it simply, you don't understand it well enough - Alberta Einstein
 </p>
 
-# ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository (0.0.1)
+*To reach more students and working professionals with my educational data science content, I have developed a set of Excel interactive dashboards. When students struggle with a concept I make a new interactive dashboard so they can learn by playing with the statistics, models or theoretical concepts!* 
 
-## Michael Pyrcz, Professor, The University of Texas at Austin
+### Michael Pyrcz, Professor, The University of Texas at Austin, Data Analytics, Geostatistics and Machine Learning 
+#### [Twitter](https://twitter.com/geostatsguy) | [GitHub](https://github.com/GeostatsGuy) | [Website](http://michaelpyrcz.com) | [GoogleScholar](https://scholar.google.com/citations?user=QVZ20eQAAAAJ&hl=en&oi=ao) | [Book](https://www.amazon.com/Geostatistical-Reservoir-Modeling-Michael-Pyrcz/dp/0199731446) | [YouTube](https://www.youtube.com/channel/UCLqEr-xV-ceHdXXXrTId5ig)  | [LinkedIn](https://www.linkedin.com/in/michael-pyrcz-61a648a1)
 
-A set of numerical demonstrations in Excel to assist with teaching / learning concepts in datascience, statistics and geostatistics.
+***
 
 ### Cite As:
 
@@ -14,9 +23,19 @@ Pyrcz, Michael J. (2021). ExcelNumericalDemos: Educational Data Science Excel De
 
 [![DOI](https://zenodo.org/badge/103857468.svg)](https://zenodo.org/doi/10.5281/zenodo.5564990)
 
-<p align="center">
-If you can't explain it simply, you don't understand it well enough - Alberta Einstein
-</p>
+***
+
+#### Setup
+
+A minimum environment includes:
+
+* Microsoft Excel > 2010 - note, VBA is not required
+
+Datasets are embedded in the Excel files.
+
+### Repository Summary
+
+
 
 To me 'coding up' or 'building out' a method or workflow in Excel without VBA is the ultimate case of explaining it simply! So while I do code in FORTRAN, C++ (20 years experience), VBA, R and Python, I challenge myselt to put methods and workflows in Excel to provide hands-on experiential learning that reaches more students. Why do I feel this way?
 
