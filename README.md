@@ -4,6 +4,8 @@
 
 # ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository
 
+## Professor Michael Pyrcz, Professor, The University of Texas at Austin
+
 A set of numerical demonstrations in Excel to assist with teaching / learning concepts in datascience, statistics and geostatistics.
 
 Please cite as:
