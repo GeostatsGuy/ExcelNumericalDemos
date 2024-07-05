@@ -2,7 +2,7 @@
     <img src="https://github.com/GeostatsGuy/GeostatsPy/blob/master/TCG_color_logo.png" width="220" height="200" />
 </p>
 
-# ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository
+# ExcelNumericalDemos: Educational Data Science Excel Demonstrations Repository (0.0.1)
 
 ## Michael Pyrcz, Professor, The University of Texas at Austin
 
