@@ -5,6 +5,12 @@
 # ExcelNumericalDemos
 A set of numerical demonstrations in Excel to assist with teaching / learning concepts in statistics and geostatistics.
 
+Please cite as:
+
+Pyrcz, Michael J. (2021). ExcelNumericalDemos: Educational Data Science in Excel Demonstrations Repository (0.0.1). Zenodo. https://zenodo.org/doi/10.5281/zenodo.5564990
+
+[![DOI](https://zenodo.org/badge/103857468.svg)](https://zenodo.org/doi/10.5281/zenodo.5564990)
+
 <p align="center">
 If you can't explain it simply, you don't understand it well enough - Alberta Einstein
 </p>
