@@ -7,7 +7,7 @@ A set of numerical demonstrations in Excel to assist with teaching / learning co
 
 Please cite as:
 
-Pyrcz, Michael J. (2021). ExcelNumericalDemos: Data Science Educational Demonstrations in Excel Repository (0.0.1). Zenodo. https://zenodo.org/doi/10.5281/zenodo.5564990
+Pyrcz, Michael J. (2021). ExcelNumericalDemos: Data Science Educational Demonstrations in Excel Repository (0.0.1). Zenodo. https://zenodo.org/doi/10.5281/zenodo.5564991
 
 [![DOI](https://zenodo.org/badge/103857468.svg)](https://zenodo.org/doi/10.5281/zenodo.5564990)
 
